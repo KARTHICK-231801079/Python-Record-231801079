@@ -1,4 +1,4 @@
-Program:
+#Program:
 a=int(input())
 print(a,end=",")
 print(type(a))
